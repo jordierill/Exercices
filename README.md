@@ -8,7 +8,7 @@ This project contains 2 exercices:
 
                   QuickSort class: contains the recursive implementation of the quicksort algorithm used by the rack class.
 
-                  Main class: Allows the interaction between the user and the sorting balls application by means of the Console.
+                  MainSortingBalls class: Allows the interaction between the user and the sorting balls application by means of the                         Console.
                   
                   RackTest class: Testing class of the sorting balls exercice (JUnit).
                   
@@ -17,7 +17,7 @@ This project contains 2 exercices:
                  SpellItOut class: Allows the conversion of a number to its representation in words. Contains two arrays 
                  (tensNames and numNames) which serves us as a dictionary to map the numbers to strings.
                  
-                 Main class: Allows the interaction between the user and the spell it out application by means of the Console.
+                 MainSpellItOut class: Allows the interaction between the user and the spell it out application by means of the Console.
                  
                  SpellItOutTest class: Testing class of the spell it out exercice (JUnit).
                 
